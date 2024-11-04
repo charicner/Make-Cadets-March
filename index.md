@@ -78,7 +78,8 @@ This task will involve consulting local emergency medical professionals to estab
 
 # Timeline
 
-![Gantt](images/Gantt.png)
+![Gantt](images/Gantt1.png)
+![Gantt](images/Gantt3.png)
 
 # Works Cited
 
