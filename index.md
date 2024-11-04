@@ -1,5 +1,6 @@
 ---
 title: Make Cadets March
+theme: jekyll-theme-cayman
 ---
 
 # Purpose
