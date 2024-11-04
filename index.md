@@ -78,6 +78,14 @@ This task will involve consulting local emergency medical professionals to estab
 
 ![Emergency response plan illustration, showing key medical assistance points and first-aid supply locations along the route for enhanced safety.](images/task6.png)
 
+# Timeline
+
+This is the plan for moving foward with the research. The living document can be found at ![Make Cadets March project](https://github.com/users/charicner/projects/1/views/4)
+
+![Gantt](images/Gantt1.png)
+![Gantt](images/Gantt3.png)
+
+
 # Works Cited
 
 - Texas Legislature. (2023). *Texas Transportation Code (Title 7, Chapter 552)*. Texas Statutes. [https://statutes.capitol.texas.gov/Docs/TN/htm/TN.552.htm](https://statutes.capitol.texas.gov/Docs/TN/htm/TN.552.htm).
