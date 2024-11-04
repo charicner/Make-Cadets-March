@@ -76,6 +76,10 @@ This task will involve consulting local emergency medical professionals to estab
 
 ![Emergency response plan illustration, showing key medical assistance points and first-aid supply locations along the route for enhanced safety.](images/task6.png)
 
+# Timeline
+
+![Gantt](images/Gantt.png)
+
 # Works Cited
 
 - Texas Legislature. (2023). *Texas Transportation Code (Title 7, Chapter 552)*. Texas Statutes. [https://statutes.capitol.texas.gov/Docs/TN/htm/TN.552.htm](https://statutes.capitol.texas.gov/Docs/TN/htm/TN.552.htm).
