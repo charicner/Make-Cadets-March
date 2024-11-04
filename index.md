@@ -2,7 +2,7 @@
 title: Make Cadets March
 theme: jekyll-theme-cayman
 ---
-(images/header.png)
+!(images/header.png)
 
 # Purpose
 
