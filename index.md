@@ -80,7 +80,7 @@ This task will involve consulting local emergency medical professionals to estab
 
 # Timeline
 
-This is the plan for moving foward with the research. The living document can be found at ![Make Cadets March project](https://github.com/users/charicner/projects/1/views/4)
+This is the plan for moving foward with the research. The living document can be found at [Make Cadets March project](https://github.com/users/charicner/projects/1/views/4)
 
 ![Gantt](images/Gantt1.png)
 ![Gantt](images/Gantt3.png)
