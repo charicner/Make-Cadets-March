@@ -4,7 +4,7 @@ title: Make Cadets March
 
 # Purpose
 
-To research hurdles and plan logistics for a proposed hike from College Station to Texas University for the rivalry game in 2025. The game ball will be transported and delivered by student veterans and the Corps of Cadets to t.u. Traffic safety and route are the key focus, but we will also gauge interest.
+To research hurdles and plan logistics for a proposed hike from College Station to Texas University for the rivalry game in 2025 in order to keep up Aggie tradition. The game ball will be transported and delivered by student veterans and the Corps of Cadets to t.u. Traffic safety and route are the key focus, but we will also gauge interest.
 
 # Summary
 
