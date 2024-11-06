@@ -1,7 +1,8 @@
 ---
-title: Make Cadets March
 theme: jekyll-theme-cayman
 ---
+<h1 style="text-align: center;">Make Cadets March</h1>
+
 <div style="text-align: center;">
   <img src="images/header.png" alt="header" width="400"/>
   <p style="font-size: 0.8em; color: gray;">Charles Gardner, Dicle Ince, Alexis Perez, Zach Strong, Alvaro Guerra</p>
