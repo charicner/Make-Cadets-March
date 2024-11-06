@@ -40,11 +40,15 @@ This task will include prioritizing multi-lane roads to ensure group safety and 
 
 ## Task 2: Determine Key Stopping Points
 
-Once the primary route options are selected, we will identify potential stopping points along each route for rest and resupply. These stopping points should be located near facilities that provide essential services, such as restrooms and hydration stations.
-
-Alternatively, places to stop and switch out the team of hikers for fresh cadets from College Station could be determined. We will use Google Maps to locate these points and verify the availability of rest areas, gas stations, or other relevant spots. We will also document the distance intervals between these points, aiming to create a structured itinerary for each route that ensures safety and convenience for participants.
-
-![Interactive map with highlighted rest stops, detailing facilities and distances between stops to support a safe, well-spaced itinerary.](images/task2.png)
+<div class="side-by-side">
+  <div class="text">
+    <p>Once the primary route options are selected, we will identify potential stopping points along each route for rest and resupply. These stopping points should be located near facilities that provide essential services, such as restrooms and hydration stations.</p>
+    <p>Alternatively, places to stop and switch out the team of hikers for fresh cadets from College Station could be determined. We will use Google Maps to locate these points and verify the availability of rest areas, gas stations, or other relevant spots. We will also document the distance intervals between these points, aiming to create a structured itinerary for each route that ensures safety and convenience for participants.</p>
+  </div>
+  <div class="image">
+    <img src="images/task2.png" alt="Stopping Points Map" width="300"/>
+  </div>
+</div>
 
 ## Task 3: Examine Texas Laws on Pedestrian Road Use
 
