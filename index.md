@@ -32,12 +32,6 @@ In conclusion, our team is prepared to conduct research to develop a viable and 
 
 ## Task 1: Identify Potential Route Options
 
-To evaluate route options for hiking the game ball from College Station to Texas University, we will identify multiple feasible routes, considering time constraints and safety factors such as road type. Using Google Maps and Texas Department of Transportation resources, we will analyze each route's accessibility and legal allowances for pedestrian use, especially along highways and rural roads.
-
-This task will include prioritizing multi-lane roads to ensure group safety and identifying areas with limited route options. To create a comprehensive comparison, we will document the available routes in detail, including distances and estimated travel times.
-
-![Image 1](images/task1.png){Source: }
-
 <div style="display: grid; grid-template-columns: 60% 40%; align-items: start; gap: 20px;">
   <div>
     <p>To evaluate route options for hiking the game ball from College Station to Texas University, we will identify multiple feasible routes, considering time constraints and safety factors such as road type. Using Google Maps and Texas Department of Transportation resources, we will analyze each route's accessibility and legal allowances for pedestrian use, especially along highways and rural roads.</p>
@@ -49,16 +43,16 @@ This task will include prioritizing multi-lane roads to ensure group safety and 
   </div>
 </div>
 
-## Task 2: Determine Key Stopping Points
+<h2 style="text-align: left;">Task 2: Determine Key Stopping Points</h2>
 
-<div style="display: grid; grid-template-columns: 60% 40%; align-items: start; gap: 20px;">
+<div style="display: grid; grid-template-columns: 40% 60%; align-items: start; gap: 20px;">
+  <div style="text-align: center;">
+    <img src="images/task2.png" alt="Stopping Points Map" width="300"/>
+    <p style="font-size: 0.8em; color: gray;">Source: Google Maps</p>
+  </div>
   <div>
     <p>Once the primary route options are selected, we will identify potential stopping points along each route for rest and resupply. These stopping points should be located near facilities that provide essential services, such as restrooms and hydration stations.</p>
     <p>Alternatively, places to stop and switch out the team of hikers for fresh cadets from College Station could be determined. We will use Google Maps to locate these points and verify the availability of rest areas, gas stations, or other relevant spots. We will also document the distance intervals between these points, aiming to create a structured itinerary for each route that ensures safety and convenience for participants.</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="images/task2.png" alt="Stopping Points Map" width="700"/>
-    <p style="font-size: 0.8em; color: gray;">Source: Google Maps</p>
   </div>
 </div>
 
