@@ -86,7 +86,9 @@ To ensure participant safety, we will develop a comprehensive medical support pl
 
 This task will involve consulting local emergency medical professionals to establish response strategies. We will also identify any first-aid equipment and trained personnel needed on-site. The medical support plan will be incorporated into the final logistics plan, prioritizing participant safety throughout the event.
 
-![Emergency response plan illustration, showing key medical assistance points and first-aid supply locations along the route for enhanced safety.](images/task6.png)
+<div style="text-align: center;">
+  <img src="images/task6.png" alt="Emergency response plan illustration, showing key medical assistance points and first-aid supply locations along the route for enhanced safety." width="700"/>
+</div>
 
 # Timeline
 
