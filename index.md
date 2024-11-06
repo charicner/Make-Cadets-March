@@ -82,12 +82,14 @@ We will distribute the survey through veteran and cadet social media groups and 
 
 ## Task 6: Propose a Medical Support Plan
 
-To ensure participant safety, we will develop a comprehensive medical support plan for the hike, detailing equipment needs, personnel requirements, and response protocols. We will identify key points along the route where medical assistance can be accessed quickly, such as nearby hospitals or clinics.
-
-This task will involve consulting local emergency medical professionals to establish response strategies. We will also identify any first-aid equipment and trained personnel needed on-site. The medical support plan will be incorporated into the final logistics plan, prioritizing participant safety throughout the event.
-
-<div style="text-align: center;">
-  <img src="images/task6.png" alt="Emergency response plan illustration, showing key medical assistance points and first-aid supply locations along the route for enhanced safety." width="700"/>
+<div style="display: grid; grid-template-columns: 40% 60%; align-items: start; gap: 20px;">
+  <div style="text-align: center;">
+    <img src="images/task6.png" alt="Medical" width="300"/>
+  </div>
+  <div>
+    <p>To ensure participant safety, we will develop a comprehensive medical support plan for the hike, detailing equipment needs, personnel requirements, and response protocols. We will identify key points along the route where medical assistance can be accessed quickly, such as nearby hospitals or clinics.</p>
+    <p>This task will involve consulting local emergency medical professionals to establish response strategies. We will also identify any first-aid equipment and trained personnel needed on-site. The medical support plan will be incorporated into the final logistics plan, prioritizing participant safety throughout the event.</p>
+  </div>
 </div>
 
 # Timeline
