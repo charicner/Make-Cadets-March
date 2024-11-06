@@ -36,7 +36,7 @@ To evaluate route options for hiking the game ball from College Station to Texas
 
 This task will include prioritizing multi-lane roads to ensure group safety and identifying areas with limited route options. To create a comprehensive comparison, we will document the available routes in detail, including distances and estimated travel times.
 
-![Map visualization of potential routes with labels indicating key highways, rural roads, and path options to enhance accessibility and safety.](images/task1.png)
+![Image 1](images/task1.png){: .center}
 
 ## Task 2: Determine Key Stopping Points
 
