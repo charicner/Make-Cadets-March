@@ -43,11 +43,11 @@ In conclusion, our team is prepared to conduct research to develop a viable and 
   </div>
 </div>
 
-<h2 style="text-align: left;">Task 2: Determine Key Stopping Points</h2>
+## Task 2: Determine Key Stopping Points
 
 <div style="display: grid; grid-template-columns: 40% 60%; align-items: start; gap: 20px;">
   <div style="text-align: center;">
-    <img src="images/task2.png" alt="Stopping Points Map" width="300"/>
+    <img src="images/task2.png" alt="Stopping Points Map" width="700"/>
     <p style="font-size: 0.8em; color: gray;">Source: Google Maps</p>
   </div>
   <div>
