@@ -98,6 +98,5 @@ This is the plan for moving foward with the research. The living document can be
 
 # Works Cited
 
-- Texas Legislature. (2023). *Texas Transportation Code (Title 7, Chapter 552)*. Texas Statutes. [https://statutes.capitol.texas.gov/Docs/TN/htm/TN.552.htm](https://statutes.capitol.texas.gov/Docs/TN/htm/TN.552.htm).
-- National Highway Traffic Safety Administration. (2018). *Pedestrian safety in rural areas*. U.S. Department of Transportation. [https://www.nhtsa.gov/](https://www.nhtsa.gov/)
-- Texas Department of Transportation. (2017). *Bryan district pedestrian safety action plan*. Texas Department of Transportation. [https://ftp.txdot.gov/pub/txdot/tpp/psap-countermeasures-methodology-memo.pdf](https://ftp.txdot.gov/pub/txdot/tpp/psap-countermeasures-methodology-memo.pdf)
+- Google. (n.d.). Google Maps. Retrieved October 31, 2024, from https://maps.google.com
+
