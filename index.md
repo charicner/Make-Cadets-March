@@ -10,23 +10,23 @@ theme: jekyll-theme-cayman
 
 # Purpose
 
-To research hurdles and plan logistics for a proposed hike from College Station to Texas University for the rivalry game in 2025. The game ball will be transported and delivered by student veterans and the Corps of Cadets to t.u. Traffic safety and route are the key focus, but we will also gauge interest.
+To research hurdles and plan logistics for a proposed hike from College Station to Texas University for the rivalry game in 2025. The game ball will be transported and delivered by student veterans and the Corps of Cadets to Texas University (t.u). Traffic safety and route are the key focus, but we will also gauge interest.
 
 # Summary
 
-This research aims to plan and execute a hike of the game ball from College Station to TU, a distance of approximately 100 miles. This event represents a unique opportunity to strengthen the tradition between the two universities while also promoting camaraderie and visibility for the Student Veterans of America and the Corps of Cadets. The critical need is to ensure that the hike can be carried out safely, legally, and efficiently. We will research the logistics, including route mapping, safety measures, legal requirements, and if there are necessary permits.
+This research aims to plan and execute a hike of the game ball from College Station to t.u., a distance of approximately 100 miles. This event represents a unique opportunity to strengthen the tradition between the two universities while also promoting camaraderie and visibility for the Student Veterans of America and the Corps of Cadets. The critical need is to ensure that the hike can be carried out safely, legally, and efficiently. We will research the logistics, including route mapping, safety measures, legal requirements, and if there are necessary permits.
 
 # Introduction
 
-Our team, **Make Cadets March**, proposes to research and develop a detailed plan to hike the game ball from College Station to Texas University (TU) in 2025 for the rivalry game. This research will culminate in the submission of a formal recommendation report, which will guide the Student Veterans of America (SVA) in planning this significant event.
+Our team, **Make Cadets March**, proposes to research and develop a detailed plan to hike the game ball from College Station to Texas University (t.u.) in 2025 for the rivalry game. This research will culminate in the submission of a formal recommendation report, which will guide the Student Veterans of America (SVA) in planning this significant event.
 
-Our primary research will involve interviewing key personnel at SVA and the other Veterans to gather insights into logistics for long hikes and gather feedback on potential concerns. We will also rely on published sources to support our proposal. One key source is the “Texas Transportation Code” (Title 7, Chapter 552), which outlines pedestrian and roadway regulations that must be followed.
+Our primary research will involve interviewing key personnel at SVA and the other Veterans to gather insights into logistics for long hikes and gather feedback on potential concerns. We will also rely on published sources to support our proposal. One key source is the “Texas Transportation Code”, which outlines pedestrian and roadway regulations that must be followed.
 
 Additionally, we will consult academic studies on pedestrian safety, including *Pedestrian Safety in Rural Areas*, published by the National Highway Traffic Safety Administration (NHTSA, 2018). Both sources will provide a framework for planning a safe and well-organized event.
 
-The Bryan district pedestrian safety action plan from the Texas Department of Transportation provides essential data, including an infographic detailing high-risk zones for pedestrian accidents and the causes behind them (Texas Department of Transportation, 2017). This information provides insight into the statistically proven dangers of pedestrian traffic within the Bryan district.
+The Bryan district pedestrian safety action plan from the Texas Department of Transportation provides essential data, including an infographic detailing high-risk zones for pedestrian accidents and the causes behind them. This information provides insight into the statistically proven dangers of pedestrian traffic within the Bryan district.
 
-From this data, we can conclude that regular pedestrian traffic alone is hazardous, let alone hiking hundreds of miles, showing that conducting this hike from College Station to TU without the necessary prior research would pose a considerable risk to the operation. Thus, we need to ensure that the hike can be conducted within a comfortable risk margin.
+From this data, we can conclude that regular pedestrian traffic alone is hazardous, let alone hiking hundreds of miles, showing that conducting this hike from College Station to t.u. without the necessary prior research would pose a considerable risk to the operation. Thus, we need to ensure that the hike can be conducted within a comfortable risk margin.
 
 This information will help our team prioritize route safety, identify potential danger areas, and implement necessary precautions for the game ball hike. The statistics and visual representation will assist in careful planning and attention to safety, ensuring our proposal is well-founded and safe.
 
@@ -98,7 +98,7 @@ We will distribute the survey through veteran and cadet social media groups and 
 
 # Timeline
 
-This is the plan for moving foward with the research. The living document can be found at [Make Cadets March project](https://github.com/users/charicner/projects/1/views/4)
+This is the plan for moving forward with the research. The living document can be found at [Make Cadets March project](https://github.com/users/charicner/projects/1/views/4)
 
 ![Gantt](images/Gantt1.png)
 ![Gantt](images/Gantt3.png)
