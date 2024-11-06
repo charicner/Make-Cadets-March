@@ -2,7 +2,9 @@
 title: Make Cadets March
 theme: jekyll-theme-cayman
 ---
-![this](images/header.png)
+<div style="text-align: center;">
+  <img src="images/header.png" alt="header" width="400"/>
+</div>
 
 # Purpose
 
