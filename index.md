@@ -66,23 +66,24 @@ To ensure that the chosen routes comply with Texas state regulations, we will ex
 
 This information will be crucial in determining route eligibility and help finalize a legally viable route for the hike.
 
-![Visual summary of legal requirements for pedestrian use on highways, with icons or diagrams representing group size restrictions and safe pedestrian zones.](images/task3.png)
-
 ## Task 4: Collect Logistical Insights from Military Experts
 
 For practical guidance on organizing a multi-day hike, we will collect logistical insights from retired military leaders, specifically focusing on challenges related to team rotation, safety vehicles, and group dynamics. We plan to conduct interviews with local military leaders and members of the Corps of Cadets who have experience in logistical planning for group activities.
 
 In these interviews, we will ask about their experiences managing similar hikes or events, focusing on best practices for safety, team coordination, and efficient resource use. We will also ask for feedback on vehicle strategies, such as having a following or leapfrogging support vehicle. Their insights will be summarized to inform the event's logistics plan.
 
-![Visualization of logistics from military insights, focusing on support vehicles and team coordination strategies that enhance safety and efficiency during the hike.](images/task4.png)
-
 ## Task 5: Estimate Interest Among Veterans and Cadets
 
-We will estimate interest levels among the veteran community and the Corps of Cadets through a survey to gauge potential participation and support for the hike. The survey will be designed with 8-10 questions focused on willingness to participate, preferred roles (e.g., hiking, logistical support), and any safety or logistical concerns they may have.
-
-We will distribute the survey through veteran and cadet social media groups and email lists using an online survey platform like Google Forms. We aim to obtain at least 20 responses to inform the planning process. We will analyze the results to understand participation trends and logistical requirements based on the expected number of attendees.
-
-![Mock-up or visualization of survey results, depicting data on participation interest and role preferences among veterans and cadets to inform planning.](images/task5.png)
+<div style="display: grid; grid-template-columns: 60% 40%; align-items: start; gap: 20px;">
+  <div>
+    <p>We will estimate interest levels among the veteran community and the Corps of Cadets through a survey to gauge potential participation and support for the hike. The survey will be designed with 8-10 questions focused on willingness to participate, preferred roles (e.g., hiking, logistical support), and any safety or logistical concerns they may have.</p>
+    <p>We will distribute the survey through veteran and cadet social media groups and email lists using an online survey platform like Google Forms. We aim to obtain at least 20 responses to inform the planning process. We will analyze the results to understand participation trends and logistical requirements based on the expected number of attendees.</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="images/task5.png" alt="Vet Survey" width="700"/>
+    <p style="font-size: 0.8em; color: gray;">Source: Google Maps</p>
+  </div>
+</div>
 
 ## Task 6: Propose a Medical Support Plan
 
